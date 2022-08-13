@@ -1,2 +1,2 @@
-Nombre, Apellido, Documento
-Pepito, Perez, 123
+NumeroFactura, Nombre, Apellido, Documento
+1, Pepito, Perez, 123
