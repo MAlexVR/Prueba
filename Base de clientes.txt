@@ -1,4 +1,5 @@
-NumeroFactura, Nombre, Apellido, Documento
-1, Pepito, Perez, 123
-2, Fulanito, Detal, 456
-3, John, Doe, 789
+NumeroFactura, Nombre, Apellido, Documento, Direccion, Correo
+1, Pepito, Perez, 123, Cll 13, pepito@perez.com
+2, Fulanito, Detal, 456, Cra 10, fulanito@detal.com
+3, John, Doe, 789, 1ro de Mayo, john@doe.com
+4, Eithan, Torres, 147, Cedritos, eithan@torres.com
