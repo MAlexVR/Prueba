@@ -1,2 +1,3 @@
 NumeroFactura, Nombre, Apellido, Documento
 1, Pepito, Perez, 123
+2, Fulanito, Detal, 456
